@@ -1,0 +1,7 @@
+# ninja log v5
+2	19	1656322915467805765	build.ninja	48b6c25250a209b5
+0	337	1656322932344012780	CMakeFiles/todo_cpp_console.dir/models/Task.cpp.o	6dcc792c0aa0b0e6
+0	371	1656322932379013209	CMakeFiles/todo_cpp_console.dir/main.cpp.o	7170c293919bf94f
+371	433	1656322932439013945	todo_cpp_console	b1cf3f4f9f749770
+1	344	1656322963548395525	CMakeFiles/todo_cpp_console.dir/main.cpp.o	7170c293919bf94f
+344	393	1656322963595396101	todo_cpp_console	b1cf3f4f9f749770
